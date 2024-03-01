@@ -1,0 +1,15 @@
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/Print.h:51:13:Print::~Print()	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/Print.h:51:13:virtual Print::~Print()	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/Print.h:80:17:virtual int Print::availableForWrite()	16	static
+../3rdParty/u8g2/cpp/U8x8lib.h:173:12:virtual size_t U8X8::write(const uint8_t*, size_t)	32	static
+../3rdParty/u8g2/cpp/U8x8lib.cpp:6:8:virtual size_t U8X8::write(uint8_t)	24	static
+../3rdParty/u8g2/cpp/U8x8lib.cpp:151:11:uint8_t u8x8_byte_arduino_3wire_sw_spi(u8x8_t*, uint8_t, uint8_t, void*)	24	static
+../3rdParty/u8g2/cpp/U8x8lib.cpp:335:11:uint8_t u8x8_byte_arduino_4wire_sw_spi(u8x8_t*, uint8_t, uint8_t, void*)	24	static
+../3rdParty/u8g2/cpp/U8x8lib.cpp:657:13:void arduino_hw_spi_3w_init()	8	static
+../3rdParty/u8g2/cpp/U8x8lib.cpp:663:13:void arduino_hw_spi_3w_flush()	4	static
+../3rdParty/u8g2/cpp/U8x8lib.cpp:674:13:void arduino_hw_spi_3w_sendbyte(uint8_t)	16	static
+../3rdParty/u8g2/cpp/U8x8lib.cpp:703:20:uint8_t u8x8_byte_arduino_3wire_hw_spi(u8x8_t*, uint8_t, uint8_t, void*)	24	static
+../3rdParty/u8g2/cpp/U8x8lib.cpp:1358:20:uint8_t u8x8_byte_arduino_8bit_8080mode(u8x8_t*, uint8_t, uint8_t, void*)	24	static
+../3rdParty/u8g2/cpp/U8x8lib.cpp:1489:20:uint8_t u8x8_byte_arduino_ks0108(u8x8_t*, uint8_t, uint8_t, void*)	24	static
+../3rdParty/u8g2/cpp/U8x8lib.h:14:7:U8X8::~U8X8()	16	static
+../3rdParty/u8g2/cpp/U8x8lib.h:14:7:virtual U8X8::~U8X8()	16	static

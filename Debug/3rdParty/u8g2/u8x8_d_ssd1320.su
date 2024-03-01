@@ -1,0 +1,4 @@
+../3rdParty/u8g2/u8x8_d_ssd1320.c:76:17:u8x8_ssd1320_8to32	32	static
+../3rdParty/u8g2/u8x8_d_ssd1320.c:107:9:u8x8_d_ssd1320_common	40	static
+../3rdParty/u8g2/u8x8_d_ssd1320.c:262:9:u8x8_d_ssd1320_160x32	24	static
+../3rdParty/u8g2/u8x8_d_ssd1320.c:463:9:u8x8_d_ssd1320_160x132	24	static

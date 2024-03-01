@@ -1,0 +1,43 @@
+cmath:592:3:constexpr bool std::isinf(double)	3
+cmath:619:3:constexpr bool std::isnan(double)	2
+WString.h:78:29:unsigned int String::length() const	2
+WString.h:229:21:const char* String::c_str() const	1
+WString.h:299:21:bool String::isSSO() const	1
+WString.h:300:29:unsigned int String::len() const	2
+WString.h:317:28:const char* String::buffer() const	2
+Print.h:62:12:size_t Print::write(const char*)	2
+Print.h:70:12:size_t Print::write(const char*, size_t)	1
+Print.h:80:17:virtual int Print::availableForWrite()	1
+Print.cpp:38:8:virtual size_t Print::write(const uint8_t*, size_t)	2
+Print.cpp:47:8:)	5
+Print.cpp:77:8:size_t Print::print(const __FlashStringHelper*)	1
+Print.cpp:82:8:size_t Print::print(const String&)	1
+Print.cpp:87:8:size_t Print::print(const char*)	1
+Print.cpp:92:8:size_t Print::print(char)	1
+Print.cpp:97:8:size_t Print::print(unsigned char, int)	1
+Print.cpp:102:8:size_t Print::print(int, int)	1
+Print.cpp:107:8:size_t Print::print(unsigned int, int)	1
+Print.cpp:112:8:size_t Print::print(long int, int)	3
+Print.cpp:122:8:size_t Print::print(long unsigned int, int)	2
+Print.cpp:131:8:size_t Print::print(long long int, int)	3
+Print.cpp:141:8:size_t Print::print(long long unsigned int, int)	2
+Print.cpp:150:8:size_t Print::print(double, int)	1
+Print.cpp:155:8:size_t Print::println(const __FlashStringHelper*)	1
+Print.cpp:162:8:size_t Print::print(const Printable&)	1
+Print.cpp:168:8:size_t Print::println()	1
+Print.cpp:173:8:size_t Print::println(const String&)	1
+Print.cpp:180:8:size_t Print::println(const char*)	1
+Print.cpp:187:8:size_t Print::println(char)	1
+Print.cpp:194:8:size_t Print::println(unsigned char, int)	1
+Print.cpp:201:8:size_t Print::println(int, int)	1
+Print.cpp:208:8:size_t Print::println(unsigned int, int)	1
+Print.cpp:215:8:size_t Print::println(long int, int)	1
+Print.cpp:222:8:size_t Print::println(long unsigned int, int)	1
+Print.cpp:229:8:size_t Print::println(long long int, int)	1
+Print.cpp:236:8:size_t Print::println(long long unsigned int, int)	1
+Print.cpp:243:8:size_t Print::println(double, int)	1
+Print.cpp:250:8:size_t Print::println(const Printable&)	1
+Print.cpp:257:8:size_t Print::println(tm*, const char*)	1
+Print.cpp:266:8:size_t Print::printNumber(long unsigned int, uint8_t)	4
+Print.cpp:288:8:size_t Print::printNumber(long long unsigned int, uint8_t)	4
+Print.cpp:311:8:size_t Print::printFloat(double, uint8_t)	9

@@ -1,0 +1,27 @@
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/Print.h:47:5:Print::Print()	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/Print.h:51:13:Print::~Print()	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/Print.h:51:13:virtual Print::~Print()	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/Print.h:80:17:virtual int Print::availableForWrite()	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:20:5:U8G2::U8G2()	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:75:10:void U8G2::initDisplay()	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:80:10:void U8G2::clearDisplay()	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:85:10:void U8G2::setPowerSave(uint8_t)	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:106:10:bool U8G2::Init()	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:151:10:void U8G2::sendBuffer()	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:154:10:void U8G2::clearBuffer()	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:244:10:void U8G2::drawLine(u8g2_uint_t, u8g2_uint_t, u8g2_uint_t, u8g2_uint_t)	40	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:270:10:void U8G2::setFont(const uint8_t*)	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:348:12:virtual size_t U8G2::write(uint8_t)	24	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:385:12:virtual size_t U8G2::write(const uint8_t*, size_t)	32	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:423:10:void U8G2::home()	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:443:10:void U8G2::setCursor(u8g2_uint_t, u8g2_uint_t)	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:12:7:U8G2::~U8G2()	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:12:7:virtual U8G2::~U8G2()	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:587:14:SSD1306::SSD1306(I2C_HandleTypeDef*, const u8g2_cb_t*)	24	static
+../UserApp/main.cpp:10:6:void ThreadOledUpdate(void*)	688	static
+../UserApp/main.cpp:132:6:void Main()	48	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:582:7:SSD1306::~SSD1306()	16	static
+C:/Users/jeffe/OneDrive/Documentos/STM32/OLED/3rdParty/u8g2/cpp/u8g2lib.hpp:582:7:virtual SSD1306::~SSD1306()	16	static
+../UserApp/main.cpp:165:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../UserApp/main.cpp:165:1:cpp)	8	static
+../UserApp/main.cpp:165:1:cpp)	8	static

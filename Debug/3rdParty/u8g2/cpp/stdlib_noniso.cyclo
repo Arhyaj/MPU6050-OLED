@@ -1,0 +1,4 @@
+stdlib_noniso.c:32:6:reverse	2
+stdlib_noniso.c:44:7:ltoa	5
+stdlib_noniso.c:69:7:ultoa	4
+stdlib_noniso.c:90:8:dtostrf	15

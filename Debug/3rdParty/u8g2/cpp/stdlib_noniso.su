@@ -1,0 +1,4 @@
+../3rdParty/u8g2/cpp/stdlib_noniso.c:32:6:reverse	32	static
+../3rdParty/u8g2/cpp/stdlib_noniso.c:44:7:ltoa	40	static
+../3rdParty/u8g2/cpp/stdlib_noniso.c:69:7:ultoa	40	static
+../3rdParty/u8g2/cpp/stdlib_noniso.c:90:8:dtostrf	96	static

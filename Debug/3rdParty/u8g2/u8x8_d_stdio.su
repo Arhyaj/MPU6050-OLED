@@ -1,0 +1,4 @@
+../3rdParty/u8g2/u8x8_d_stdio.c:45:6:bitmap_place_tile	24	static
+../3rdParty/u8g2/u8x8_d_stdio.c:52:6:bitmap_show	16	static
+../3rdParty/u8g2/u8x8_d_stdio.c:72:9:u8x8_d_stdio	24	static
+../3rdParty/u8g2/u8x8_d_stdio.c:95:6:u8x8_SetupStdio	16	static
